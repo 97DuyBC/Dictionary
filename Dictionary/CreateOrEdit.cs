@@ -59,11 +59,26 @@ namespace Dictionary
                 word.Word = wordKeyTxt.Text.ToLower();
                 word.Type = guna2ComboBox1.SelectedIndex;
 
+                if (string.IsNullOrEmpty(word.Word))
+                {
+                    MessageBox.Show("Word is required");
+                    return;
+                }
+
                 //get data meaning
                 word.WordMeaning = new string[5];
                 for (var i = 0; i < listView1.Items.Count; i++)
                 {
-                    word.WordMeaning[i] = listView1.Items[i].SubItems[0].Text;
+                    if (!string.IsNullOrEmpty(listView1.Items[i].SubItems[0].Text))
+                    {
+                        word.WordMeaning[i] = listView1.Items[i].SubItems[0].Text;
+                    }
+                }
+
+                if (!word.WordMeaning.Any(x => x != null))
+                {
+                    MessageBox.Show("Word meaning is required");
+                    return;
                 }
 
                 //get data example

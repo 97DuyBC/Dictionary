@@ -106,7 +106,7 @@
             guna2ComboBox1.Font=new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point);
             guna2ComboBox1.ForeColor=Color.FromArgb(68, 88, 112);
             guna2ComboBox1.ItemHeight=30;
-            guna2ComboBox1.Items.AddRange(new object[] { "Danh từ", "Tính từ", "Động từ" });
+            guna2ComboBox1.Items.AddRange(new object[] { "Danh từ", "Tính từ", "Động từ", "Phó từ" });
             guna2ComboBox1.Location=new Point(12, 65);
             guna2ComboBox1.Name="guna2ComboBox1";
             guna2ComboBox1.ShadowDecoration.CustomizableEdges=customizableEdges4;

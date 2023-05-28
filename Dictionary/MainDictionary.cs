@@ -214,10 +214,17 @@ namespace Dictionary
         //remove
         private void guna2GradientButton3_Click(object sender, EventArgs e)
         {
-            var key = wordKeyTxt.Text;
-            Dictionary.RemoveWord(key);
-            SaveToFile();
-            ResetFrom();
+            string message = "Do you want to remove this word?";
+            string title = "Remove word";
+            MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+            DialogResult result = MessageBox.Show(message, title, buttons);
+            if (result == DialogResult.Yes)
+            {
+                var key = wordKeyTxt.Text;
+                Dictionary.RemoveWord(key);
+                SaveToFile();
+                ResetFrom();
+            }
         }
 
         //form edit
