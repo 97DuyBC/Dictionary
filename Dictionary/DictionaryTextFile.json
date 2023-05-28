@@ -1,0 +1,100 @@
+[
+  {
+    "word": "compulsory",
+    "type": 1,
+    "wordMeaning": [
+      "bắt buộc"
+    ],
+    "example": [
+      "it was compulsory to attend mass",
+      "the abuse of compulsory powers",
+      "compulsory military service"
+    ]
+  },
+  {
+    "word": "get",
+    "type": 2,
+    "wordMeaning": [
+      "lấy",
+      "nhận",
+      "cấp cho",
+      "được",
+      "đến nơi nào"
+    ],
+    "example": [
+      "you'll get used to it",
+      "I'll get you for this!",
+      "What do you mean? I don't get it",
+      "I'll get a taxi and be home in an hour"
+    ]
+  },
+  {
+    "word": "consolidate",
+    "type": 2,
+    "wordMeaning": [
+      "Củng cố",
+      "Chắc chắn",
+      "hợp nhất"
+    ],
+    "example": [
+      "the first phase of the project is to consolidate the outside walls",
+      "mall manufacturing activities have been consolidated in new premises"
+    ]
+  },
+  {
+    "word": "information",
+    "type": 0,
+    "wordMeaning": [
+      "thông tin",
+      "sự hiểu biết",
+      "tin tức"
+    ],
+    "example": [
+      "a vital piece of information",
+      "the tenant may lay an information against his landlord"
+    ]
+  },
+  {
+    "word": "accuracy",
+    "type": 0,
+    "wordMeaning": [
+      "sự chính xác",
+      "xác thực"
+    ],
+    "example": [
+      "she hit the ball with great accuracy",
+      "we have confidence in the accuracy of the statistics"
+    ]
+  },
+  {
+    "word": "comprehend",
+    "type": 2,
+    "wordMeaning": [
+      "hiểu",
+      "bao hàm"
+    ],
+    "example": [
+      "he couldn't comprehend her reasons for marrying Mary",
+      "I simply couldn't comprehend what had happened"
+    ]
+  },
+  {
+    "word": "take",
+    "type": 2,
+    "wordMeaning": [
+      "lấy",
+      "cầm",
+      "nắm",
+      "nhận được",
+      "mang theo"
+    ],
+    "example": [
+      "they don't take children",
+      "they don't take children",
+      "I'll take you to your room",
+      "he leaned forward to take her hand",
+      "some degrees require a student to take a secondary subject",
+      "I can't take the humidity"
+    ]
+  }
+]

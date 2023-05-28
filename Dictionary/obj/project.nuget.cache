@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOfym98i08Ua0ko1BsKSDNl/HvVcGI+Wm1sv+QDSx61eLspZRlNXpD3f7ixK6mMCUh59bpYWe8piPaNv5kLV1A==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\Dictionary\\Dictionary\\Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\krypton.toolkit\\70.22.11.312\\krypton.toolkit.70.22.11.312.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
